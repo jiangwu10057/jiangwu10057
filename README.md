@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+![github](https://github-readme-stats.vercel.app/api?username=jiangwu10057&theme=vue-dark&show_icons=true)
+
+- I‘m looking for a job！
+- I‘m a PHP Engineer! 
 <!--
 **jiangwu10057/jiangwu10057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-![github](https://github-readme-stats.vercel.app/api?username=jiangwu10057&theme=vue-dark&show_icons=true)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
