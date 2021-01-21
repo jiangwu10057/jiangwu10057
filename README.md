@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ![github](https://github-readme-stats.vercel.app/api?username=jiangwu10057&theme=vue-dark&show_icons=true)
 
