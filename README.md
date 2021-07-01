@@ -1,6 +1,7 @@
 ### Hi 👋
 
 ![github](https://github-readme-stats.vercel.app/api?username=jiangwu10057&theme=vue-dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangwu10057&layout=compact)](https://starsl.cn)
 
 - I‘m a PHP&GO Engineer! 
 <!--
