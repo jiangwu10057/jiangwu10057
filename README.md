@@ -3,7 +3,7 @@
 ![github](https://github-readme-stats.vercel.app/api?username=jiangwu10057&theme=vue-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiangwu10057&layout=compact)](https://starsl.cn)
 
-- I‘m a PHP&GO Engineer! 
+- I‘m a PHP&GO&PYTHON Engineer! 
 <!--
 **jiangwu10057/jiangwu10057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
